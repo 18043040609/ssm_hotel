@@ -48,4 +48,8 @@ public class Dept {
     public void setRemark(String remark) {
         this.remark = remark;
     }
+
+    public static void main(String[] args) {
+        System.out.println("hello,git");
+    }
 }
